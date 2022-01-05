@@ -11,6 +11,7 @@ strong{
 .first_part{
     display:flex;
     background-image: linear-gradient(120deg,rgb(39, 224, 39), blue);
+    
 }
 .biboron{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -25,6 +26,12 @@ strong{
     margin-left:10px;
     margin-right:20px;
 }
+
+.second_part{
+    display:flex;
+    background-image: linear-gradient(120deg,rgb(94, 39, 224), rgb(0, 255, 42));
+    margin-top:20px;
+}
 .half_width{
     width:50%;
 }
@@ -33,7 +40,6 @@ span{
     font-size: 20px;
     font-weight: 700;
 }
-.second_part{display:flex;}
 a{
     text-decoration: none;
     padding:10px 20px;
@@ -52,7 +58,9 @@ a:hover{
 .third_section {
     
 }
-.container{display:flex;}
+.container{
+    display:flex;
+}
 .container .margin_box{
     margin-left: 5px;
     margin-right: 5px;
