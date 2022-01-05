@@ -15,3 +15,13 @@ span{
     font-size: 20px;
     font-weight: 700;
 }
+.second_part{display:flex;}
+a{
+    text-decoration: none;
+    padding:10px 20px;
+    text-align:center;
+    color:white;
+    background-image: linear-gradient(45deg, red, yellow);
+    font-weight: 500;
+    border-radius:10px;
+}
